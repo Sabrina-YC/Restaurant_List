@@ -13,7 +13,7 @@
 
 1. 開啟終端機(terminal)，複製此專案至本機電腦。
 ```
-git clone https://github.com/pierceshih15/restaurantList.git
+git clone https://github.com/Sabrina-YC/Restaurant_List.git
 ```
 
 2. 進入此專案資料夾
@@ -42,4 +42,4 @@ This serverr is listening to http://localhost:3000
 
 
 ## 專案開發人員
-* **Sabrina Chi** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sabrina Chi** 
