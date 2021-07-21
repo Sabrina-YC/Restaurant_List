@@ -41,5 +41,7 @@ This serverr is listening to http://localhost:3000
 ![image](https://user-images.githubusercontent.com/86601502/126461931-6161a685-ff0c-4010-9ac3-c4561232dc8e.png)
 
 
-## 專案開發人員
-* **Sabrina Chi** 
+
+## 開發人員
+* [Sabrina Chi](https://github.com/Sabrina-YC) 
+
