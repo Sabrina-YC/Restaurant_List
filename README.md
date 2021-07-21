@@ -18,7 +18,7 @@ git clone https://github.com/Sabrina-YC/Restaurant_List.git
 
 2. 進入此專案資料夾
 ```
-cd restaurant_list
+cd Restaurant_List
 ```
 
 3. 在終端機安裝npm套件
